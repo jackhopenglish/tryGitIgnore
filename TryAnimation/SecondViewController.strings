@@ -1,0 +1,14 @@
+/* 
+  SecondViewController.strings
+  TryAnimation
+
+  Created by 劉韋呈 on 2017/3/31.
+  Copyright © 2017年 劉韋呈. All rights reserved.
+*/
+"login_text" = "登入";
+"email_textfield_placeholder" = "電子郵件";
+"password_textfield_placeholder" = "密碼";
+"show_password_checkbox_text" = "顯示密碼";
+"remember_me_checkbox_text" = "記住我";
+"forget_password_button_title" = "忘記密碼";
+"facebook_login_button_title" = "使用FACEBOOK登入";

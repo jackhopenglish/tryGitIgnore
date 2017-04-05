@@ -1,0 +1,13 @@
+/* 
+  FirstViewController.strings
+  TryAnimation
+
+  Created by 劉韋呈 on 2017/3/30.
+  Copyright © 2017年 劉韋呈. All rights reserved.
+*/
+"title_text" = "攻其不背";
+"login_button_title" = "登入";
+"try_button_title" = "體驗課程";
+"introduction_button_title" = "產品介紹";
+"notStudentButton_button_title" = "還不是學員？";
+"contactUsButton_button_title" = "聯絡我們";
